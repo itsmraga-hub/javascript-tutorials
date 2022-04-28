@@ -10,13 +10,30 @@ var names = ['Peter', 'Samuel', 'Raga', 'Paul', 'Shian', 'Karen', 'Dan', 'Ruth',
 // We use loops to iterate over the array in order to access each element in the array.
 // Javascript has three types of loops.
 // i.e. for loop, while loop and do.. while loop
+// For loop example
 // let a = 90
 // for(let i = 0;i < names.length; i++) {
 //     let a = names[i]
 //     console.log(a)
 // }
 
+// While loop - evaluates the condition first before performing the action.
+// let a = 0
+// while (a < names.length) {
+//     console.log(names[a])
+//     a++
+// }
 
+//do.. while loop - performs the action first then evaluates the condition.
+// console.log("Do While")
+// let i = 0
+// do {
+//     console.log(names[i])
+//     ++i
+// } while(i < names.length)
 
 // console.log(names.length)
 
+
+// Exercise 1
+// Create three different arrays and perform the three iterative loops on each and check if they work correctly.
