@@ -1,1 +1,4 @@
-  let a = truthCheck([{name: "Quincy", role: "Founder", isBot: false}, {name: "Naomi", role: "", isBot: false}, {name: "Camperbot", role: "Bot", isBot: true}], "isBot");
+let obj = {};
+// obj.name = "Sam"
+// obj["age"] = 23;
+// console.log(obj)
